@@ -1,0 +1,17 @@
+{
+  "name": "Skins do Brawl Stars",
+  "short_name": "Skins BS",
+  "description": "Aplicação para cadastrar e explorar skins do Brawl Stars",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f1fa",
+  "theme_color": "#7b1fa2",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
