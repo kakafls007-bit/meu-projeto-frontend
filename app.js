@@ -1,6 +1,6 @@
 // Troque essa URL pela URL pública do backend depois do deploy no Render,
 // ex: "https://seu-backend.onrender.com/skins"
-const API_URL = "http://localhost:3000/skins";
+const API_URL = "https://meu-projeto-backend-kf7u.onrender.com/skins";
 
 const formulario = document.querySelector("#form-skin");
 const campoId = document.querySelector("#skin-id");
